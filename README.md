@@ -14,8 +14,6 @@ Contains evaluation figures (`.png`) that visualize model performance metrics (e
 - etc.
 
 ### `Software/`  
-#### `Data/`  
-Stores or processes motion capture data from the **EmoPain** dataset[1].
 
 #### `Model_Train/`  
 Core training and evaluation scripts.
