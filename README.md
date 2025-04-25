@@ -1,6 +1,6 @@
 # Causal_Graph_in_Human_Behaviour
 
-Our work was published at **The 19th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2025)**.  
+Our work was published and accepted at **The 19th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2025)**.  
 Paper: [https://arxiv.org/abs/2409.15564](https://arxiv.org/abs/2409.15564)
 
 This project implements **CauSkelNet**, a causal representation learning framework for analyzing human behavior using joint-level motion data. It integrates the **Peter-Clark (PC) algorithm** and **Kullback-Leibler (KL) divergence** to infer causal relationships between body joints, with applications in pain recognition and movement analysis.
